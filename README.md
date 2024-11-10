@@ -78,6 +78,13 @@ If you don't have any of these tools installed, follow the provided links to ins
   ```sh
     npm start
    ```
+
+Open any browser and type
+
+ ```sh
+   localhost:8080
+   ```
+
 ## Running with docker
 
 1.- Making Docker Pull
@@ -90,6 +97,11 @@ If you don't have any of these tools installed, follow the provided links to ins
 
  ```sh
    docker run -p 8080:8080 retroandre/hello-javascript:latest
+   ```
+3.- Open any browser and type
+
+ ```sh
+   localhost:8080
    ```
 
 ## Contributing
