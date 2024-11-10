@@ -2,6 +2,8 @@
     <h1>JavaScript-MiniProject</h1>
 </div>
 
+![image](https://github.com/user-attachments/assets/96331f30-87aa-4477-bedd-54eba5c2c194)
+
 ## About The Project
 
 This is a Hello World in Javascript using express and uploaded on any cloud provider.
