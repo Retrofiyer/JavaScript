@@ -1,6 +1,4 @@
-<div>
-    <h1>JavaScript-MiniProject</h1>
-</div>
+# JavaScript-MiniProject
 
 ![image](https://github.com/user-attachments/assets/96331f30-87aa-4477-bedd-54eba5c2c194)
 
