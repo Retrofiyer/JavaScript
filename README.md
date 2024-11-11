@@ -1,6 +1,6 @@
 # JavaScript-MiniProject
 
-![image](https://github.com/user-attachments/assets/96331f30-87aa-4477-bedd-54eba5c2c194)
+![image](https://github.com/user-attachments/assets/5fa8bb1a-0923-4159-997b-9f3250978f21)
 
 ## About The Project
 
