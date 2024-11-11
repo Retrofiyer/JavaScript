@@ -87,16 +87,18 @@ Open any browser and type
 
 ## Running with docker
 
-1.- Making Docker Pull
+1.- Making Docker Pull or Build docker image
 
  ```sh
    docker pull retroandre/hello-javascript:latest
    ```
-
+```sh
+   docker build -t <any-name> .
+   ```
 2.- Last make a docker run
 
  ```sh
-   docker run -p 8080:8080 retroandre/hello-javascript:latest
+   docker run -p 8080:8080 retroandre/hello-javascript:latest # or any-name
    ```
 3.- Open any browser and type
 
